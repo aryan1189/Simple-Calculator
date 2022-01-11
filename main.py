@@ -16,5 +16,4 @@ elif operator == "/":
 else:
   print("Invalid operation!")
 
-# Thanks for using
 print("Thanks for using our system!")
